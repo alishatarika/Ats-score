@@ -1,0 +1,93 @@
+{
+  "programming": [
+    "python", "java", "javascript", "typescript", "c", "c++", "c#", "go", "rust",
+    "kotlin", "swift", "php", "ruby", "scala", "r", "matlab", "perl", "bash",
+    "shell", "powershell", "dart", "lua", "groovy", "elixir", "haskell",
+    "python programming", "object oriented programming", "functional programming"
+  ],
+  "web_frontend": [
+    "html", "css", "react", "angular", "vue", "svelte", "next.js", "nuxt",
+    "jquery", "bootstrap", "tailwind", "sass", "less", "webpack", "vite",
+    "redux", "responsive design", "web development", "frontend development",
+    "ui development", "cross browser compatibility"
+  ],
+  "web_backend": [
+    "node.js", "express", "fastapi", "django", "flask", "spring", "spring boot",
+    "laravel", "asp.net", ".net", "rails", "nest.js", "gin", "fiber",
+    "microservices", "rest api", "soap", "grpc", "websocket", "api development",
+    "backend development", "server side development", "web frameworks"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "sqlite", "mongodb", "redis", "cassandra",
+    "dynamodb", "elasticsearch", "neo4j", "oracle", "sql server", "mariadb",
+    "firebase", "supabase", "couchdb", "influxdb", "nosql", "database design",
+    "database management", "query optimization", "orm"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "terraform",
+    "ansible", "jenkins", "github actions", "gitlab ci", "circleci", "helm",
+    "prometheus", "grafana", "datadog", "linux", "unix", "nginx", "apache",
+    "ci/cd", "devops", "sre", "cloud computing", "cloud platforms",
+    "infrastructure as code", "containerization", "version control"
+  ],
+  "data_ml": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "data science", "data analysis", "data engineering",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "pandas", "numpy",
+    "spark", "hadoop", "kafka", "airflow", "dbt", "mlflow",
+    "tableau", "power bi", "data visualization", "statistics",
+    "regression", "classification", "clustering", "neural network",
+    "llm", "generative ai", "rag", "fine-tuning", "data pipeline",
+    "data structures", "algorithms", "data structures and algorithms"
+  ],
+  "tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence", "trello",
+    "asana", "notion", "figma", "sketch", "postman", "swagger", "excel",
+    "powerpoint", "ms office", "microsoft office", "microsoft word",
+    "microsoft visio", "microsoft access", "sharepoint", "version control systems"
+  ],
+  "business": [
+    "agile", "scrum", "kanban", "waterfall", "lean", "six sigma",
+    "project management", "product management", "business analysis",
+    "requirements gathering", "stakeholder management", "risk management",
+    "change management", "process improvement", "business process modeling",
+    "bpmn", "uml", "use case", "user story", "gap analysis",
+    "cost benefit analysis", "swot analysis", "kpi", "okr",
+    "cross functional teams", "team collaboration", "code review",
+    "code reviews", "system design", "software development lifecycle",
+    "software engineering", "clean code", "debugging", "troubleshooting",
+    "problem solving", "optimization", "performance optimization",
+    "scalable applications", "web scraping", "automation"
+  ],
+  "cms_ecommerce": [
+    "wordpress", "shopify", "woocommerce", "magento", "drupal", "joomla",
+    "contentful", "strapi", "webflow"
+  ],
+  "crm_erp": [
+    "salesforce", "sap", "sap hana", "oracle erp", "dynamics 365",
+    "hubspot", "zoho", "servicenow", "workday", "netsuite"
+  ],
+  "security": [
+    "cybersecurity", "penetration testing", "ethical hacking", "network security",
+    "cloud security", "soc", "siem", "vulnerability assessment", "owasp",
+    "encryption", "ssl", "tls", "iam", "zero trust"
+  ],
+  "accounting_finance": [
+    "accounting", "bookkeeping", "budgeting", "financial reporting", "forecasting",
+    "accounts payable", "accounts receivable", "bank reconciliation",
+    "general ledger", "tax", "auditing", "payroll", "invoicing",
+    "quickbooks", "tally", "xero", "sap fico", "financial analysis",
+    "cost accounting", "management accounting", "ifrs", "gaap"
+  ],
+  "hr": [
+    "recruitment", "talent acquisition", "onboarding", "performance management",
+    "employee relations", "hris", "compensation", "benefits", "training",
+    "organizational development", "workforce planning"
+  ],
+  "marketing": [
+    "seo", "sem", "ppc", "google ads", "social media marketing",
+    "content marketing", "email marketing", "digital marketing",
+    "google analytics", "facebook ads", "brand management",
+    "market research", "copywriting", "crm marketing"
+  ]
+}
